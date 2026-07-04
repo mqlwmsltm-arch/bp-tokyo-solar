@@ -1,4 +1,10 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hapjeong-party-place.node-link.shop/sitemap.xml
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://top-seocho-karaoke.xyz/sitemap.xml
