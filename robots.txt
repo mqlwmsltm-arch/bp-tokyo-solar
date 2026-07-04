@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tokyo-solar.node-link.shop/sitemap.xml
+Sitemap: https://hapjeong-party-place.node-link.shop/sitemap.xml
